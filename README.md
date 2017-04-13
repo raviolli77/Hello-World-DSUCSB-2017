@@ -10,6 +10,6 @@ You can erase the original repo if you think it'll just be clutter on your perso
 
 See the following image for reference as to how to create one manually:
 
-[]('images/gitPic.png')
+<img src='images/gitPic.png'>
 
 Any questions ask me on *Slack*!
