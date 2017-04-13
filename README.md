@@ -12,4 +12,7 @@ See the following image for reference as to how to create one manually:
 
 <img src='images/gitPic.png'>
 
+
+Once you create the branch you should be able to upload your files into that branch I will include my branch and example template for y'all to reference. 
+
 Any questions ask me on *Slack*!
