@@ -1,18 +1,34 @@
-# Hello World Data Science UCSB Spring 2017
-## Repo for Week Two Markdown Practice Template
+# DataScienceSpr17
+## Table of Contents
++ Contributors
++ Languages
++ Music
++ Project Ideas
 
-## Instuctions:
-Now that you have gotten familiar with *markdown* I want everyone to create a branch on this repo. It should be called something like `ravi_branch` and upload your file there. 
+### Contributors
 
-**DO NOT** change the master branch!
+This README page was created by Ryan C. Kirkpatrick
 
-You can erase the original repo if you think it'll just be clutter on your personal *GitHub* account but everyone should create a branch on this repo with what they did on 4/12/2017's meeting. 
+### Languages
 
-See the following image for reference as to how to create one manually:
+|Languages   |How Well Known|
+|---------   |--------------|
+|Python      |Well          |
+|C++         |Well          |
+|SQL         |Well          |
+|HTML/CSS    |Hardly        |
+|Visual Basic|Hardly        |
 
-<img src='images/gitPic.png'>
+### Music
+
+1. "Devil Like Me" - Rainbow Kitten Surprise
+2. "Morning Song" - The Lumineers
+3. "Lose Yourself" - Eminem
+4. "Wing$" - Macklemore & Ryan Lewis
+5. "Cold Love" - Rainbow Kitten Surprise
 
 
-Once you create the branch you should be able to upload your files into that branch I will include my branch and example template for y'all to reference. 
+### Project Ideas
 
-Any questions ask me on *Slack*!
++ Track movement using GPS around a city and display how people flow
++ Facial recognition/image processing of images of faces scraped from facebook. Create new face of person from data. Do people with the same name look alike?
