@@ -15,7 +15,7 @@
 I'm me
 
 ## Contributor
-+ simeir
++ Michael Zhou
 
 ## Important Links
 + Github: <https://github.com/simeir>
@@ -32,7 +32,7 @@ I'm me
 Python / How to write useful programs and how to hack
 
 # Favorite Songs
-I just open Youtube and listen to whatever it gives me when I need something to listen to. Usually I don't.
+I just open something music and listen to whatever it gives me when I need something to listen to. Usually I don't.
 
 # Favorite Meme
 ![alt text](https://github.com/raviolli77/UCSBProjectGroup-Syllabus-Spring2017/blob/master/weekTwo/ISLR.jpg "Meme")
