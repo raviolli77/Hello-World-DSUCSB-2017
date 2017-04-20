@@ -35,5 +35,5 @@ I want to learn Data visualization with R
 + Do It by Tuxedo 
 
 ## Favorite Meme 
-! [] (arthurMeme.jpg)
+![alt text](https://github.com/ekawakami97/DataScienceSpring2017/blob/master/arthurMeme.jpg)
 
