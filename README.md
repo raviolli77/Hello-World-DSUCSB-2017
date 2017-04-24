@@ -1,18 +1,46 @@
-# Hello World Data Science UCSB Spring 2017
-## Repo for Week Two Markdown Practice Template
+# Timothy Nguyen
+Welcome to me.
+## Table of Contents
 
-## Instuctions:
-Now that you have gotten familiar with *markdown* I want everyone to create a branch on this repo. It should be called something like `ravi_branch` and upload your file there. 
+- Abstract
+- Contributor
+- Important Links
+- Languages Known
+- Favorite Songs
+- Favorite Meme
 
-**DO NOT** change the master branch!
+## Abstract
+I love puppies and data! :)
 
-You can erase the original repo if you think it'll just be clutter on your personal *GitHub* account but everyone should create a branch on this repo with what they did on 4/12/2017's meeting. 
+## Contributor
+Timothy D. Nguyen
 
-See the following image for reference as to how to create one manually:
+## Important Links
 
-<img src='images/gitPic.png'>
+- [Linkedin](https://www.linkedin.com/in/timothy-d-nguyen/)
+- [GitHub](https://github.com/timothydnguyen)
+- Email: nguyen.d.timothy [at] gmail.com
 
+## Languages Known
 
-Once you create the branch you should be able to upload your files into that branch I will include my branch and example template for y'all to reference. 
+**Language**|**Proficiency**|**Language Preference for Project**
+---|---|---
+R|decent|meh
+Python|basic|yeah!!
+Scala|basic|yeah!!
+Java|basic|meh
 
-Any questions ask me on *Slack*!
+## Stuff I Want to Learn
+- cluster computing through Spark
+- webscraping with Python
+- data visualization (plot.ly)
+
+## Favorite Songs
+1. HONNE - Someone That Loves You
+2. Trey Songz - Nobody Else But You
+3. Michael Jackson - Love Never Felt so Good
+4. Nelly Furtado - Promiscuous
+5. Jeremih - Impatient
+
+## Dankest Meme
+![](images/pasta.png)
