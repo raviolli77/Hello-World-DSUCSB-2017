@@ -7,6 +7,7 @@
 + Contributor
 + Important Links
 + Languages Known
++ stuff i want to learn
 + Favorite Songs
 + Favorite Meme
 
