@@ -21,7 +21,9 @@ Hi my name is Giovanni. You can call me Gio. I'm a 4th year Statistical Science 
 
 ## Languages Known:
 ---
+
 | Language | Level | Language Preference for Project
+|---|------|------|
 | R | average | most likely
 | Python | ok | open to it 
 | SQL | none | want to learn about it
